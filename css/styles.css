@@ -23,8 +23,6 @@ body {
   margin: auto;
   font-size: 1.5rem;
   min-height: 100vh;
-  diplay: grid;
-  place-items: center;
   width: 90vw;
   background-color: var(--White);
   padding-top: 6rem;
